@@ -1,0 +1,31 @@
+#container{
+    background-color: #78be20 !important;
+    color: white !important;
+}
+
+#header {
+  display:none !important;
+}
+
+#saveForm{
+  color: black !important;
+  background-color: #78be20 !important;
+}
+
+#container, html.embed {
+  background-color: #78be20 !important;
+}
+
+.field{
+    margin-top: 6px;
+    margin-bottom: 6px;
+    padding: 10px;
+    border-radius: 10px;
+    border:1px solid #e5e5e5 !important
+}
+
+.desc{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 6px;
+}
