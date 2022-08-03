@@ -37,3 +37,23 @@
 #fo6282li6{
   width: 85%
 }
+.wufoo label.desc, .wufoo legend.desc, .likert caption {
+  font-size: 126% !important;
+  font-family: Poppins, sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  color: #ffffff !important;
+}
+.wufoo li div, .wufoo li span, .wufoo li div label, .wufoo li span label {
+  font-family: sans-serif;
+  color: #ffffff !important;
+  font-size: 105%;
+}
+.wufoo input.text, .wufoo textarea.textarea, .wufoo input.file, .wufoo select.select, .wufoo li .wufoo-dropdown span {
+  font-style: normal;
+  font-weight: normal;
+  color: #333333 !important;
+  font-size: 115% !important;
+  padding-inline-start: 10px;
+  padding-inline-end: 10px;
+}
