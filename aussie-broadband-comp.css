@@ -45,3 +45,17 @@
 #fo6282li6{
     width: 85%
 }
+.wufoo .section div {
+  font-size: 100% !important;
+  font-family: inherit;
+  font-style: normal;
+  font-weight: normal;
+  color: white!important;
+}
+.wufoo .section h3 {
+  font-size: 169% !important;
+  font-family: inherit;
+  font-style: normal;
+  font-weight: normal;
+  color: red!important;
+}
