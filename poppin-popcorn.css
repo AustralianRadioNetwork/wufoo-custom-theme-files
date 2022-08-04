@@ -1,0 +1,47 @@
+#logo{
+    display: none !important;
+}
+
+#container{
+    background-color: #005baa !important;
+    color: white !important;
+}
+
+#header {
+  display:none !important;
+}
+
+#saveForm{
+  color: white !important;
+  background-color: black !important;
+  padding: 10px !important;
+  margin-top: 20px !important;
+  margin-bottom: 20px !important;
+}
+
+#container, html.embed {
+  background-color: #005baa !important;
+}
+
+.field{
+    margin-top: 6px !important;
+    margin-bottom: 6px !important;
+    padding-top: 15px !important;
+    border-radius: 10px;
+    border: 1px solid #e5e5e5 !important;
+    padding-bottom: 15px !important;
+}
+
+.safari{
+    background-color: #005baa !important;
+}
+
+.desc{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 6px;
+}
+
+#fo6282li6{
+    width: 85%
+}
