@@ -137,6 +137,12 @@
   font-weight: normal;
   color: red!important;
 }
+.wufoo li {
+  width: 85% !important;
+}
+form li {
+  margin: 10px !important;
+}
 /* container */
 #fo6284li6{
   display: flex;
