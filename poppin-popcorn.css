@@ -159,11 +159,11 @@ form.wufoo {
   padding: 0px !important;
 }
 .wufoo li.focused {
-  background-color: rgb(26 62 172) !important;
+  background-color: rgb(0, 90, 170) !important;
 }
 form li.focused {
-  background-color: rgb(26 62 172) !important;
+  background-color: rgb(0, 90, 170) !important;
 }
 form li.error {
-  background-color: rgb(26 62 172) !important;
+  background-color: rgb(0, 90, 170) !important;
 }
