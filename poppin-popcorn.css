@@ -161,7 +161,9 @@ form.wufoo {
 .wufoo li.focused {
   background-color: rgb(26 62 172) !important;
 }
-
 form li.focused {
+  background-color: rgb(26 62 172) !important;
+}
+form li.error {
   background-color: rgb(26 62 172) !important;
 }
