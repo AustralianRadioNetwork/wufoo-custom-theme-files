@@ -16,7 +16,7 @@
   border-radius: 10px !important;
 }
 #container, html.embed {
-  background-color: #005baa !important;
+  background-color: #3D2C23FF !important;
 }
 #logo{
   display: none !important;
@@ -77,7 +77,7 @@
   border-radius: 10px !important;
 }
 #container, html.embed {
-  background-color: #005baa !important;
+  background-color: #3D2C23FF !important;
 }
 #logo{
   display: none !important;
@@ -119,11 +119,11 @@
   padding-inline-end: 10px;
 }
 .safari{
-    background-color: #005baa !important;
+    background-color: #3D2C23FF !important;
 }
 .html {
     background-image: none;
-    background-color: #005baa !important;
+    background-color: #3D2C23FF !important;
 }
 .wufoo .section div {
   font-size: 100% !important;
@@ -159,11 +159,11 @@ form.wufoo {
   padding: 0px !important;
 }
 .wufoo li.focused {
-  background-color: rgb(0, 90, 170) !important;
+  background-color: rgb(61 44 35) !important;
 }
 form li.focused {
-  background-color: rgb(0, 90, 170) !important;
+  background-color: rgb(61 44 35) !important;
 }
 form li.error {
-  background-color: rgb(0, 90, 170) !important;
+  background-color: rgb(61 44 35) !important;
 }
