@@ -167,3 +167,7 @@ form li.focused {
 form li.error {
   background-color: rgb(61 44 35) !important;
 }
+textarea.textarea {
+    width: 293px;
+    max-width: 100%;
+}
